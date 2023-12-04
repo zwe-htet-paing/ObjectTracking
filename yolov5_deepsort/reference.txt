@@ -1,0 +1,8 @@
+## https://github.com/dongdv95/yolov5/tree/master/Yolov5_DeepSort_Pytorch
+## https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet
+## https://github.com/yasarniyazoglu/YoloV5-and-DeepSort-Custom-Dataset
+## https://github.com/Sharpiless/Yolov5-Deepsort
+## https://github.com/sithu31296/simple-object-tracking
+## https://github.com/bharath5673/StrongSORT-YOLO
+## https://learnopencv.com/understanding-multiple-object-tracking-using-deepsort/#Integrating-DeepSORT
+## https://github.com/mikel-brostrom/yolo_tracking

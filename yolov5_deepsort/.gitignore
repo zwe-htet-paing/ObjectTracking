@@ -1,0 +1,12 @@
+# Folders
+__pycache__/
+runs/
+
+
+# Files
+*.weights
+*.t7
+*.mp4
+*.avi
+*.so
+*.pt
