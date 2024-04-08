@@ -1,0 +1,8 @@
+__pycache__
+
+/runs
+/deep_sort_pytorch
+
+*.zip
+*.pt
+*.mp4
